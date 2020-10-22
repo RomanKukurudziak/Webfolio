@@ -1,0 +1,208 @@
+h3 {
+    font-size: 100px;
+    text-align: center;
+    color: darkgrey;
+    font-family: 'Roboto Mono', monospace;
+}
+.brand {
+    font-size: 37px;
+    line-height: 20px;
+    color: #404040;
+    font-family: 'Bebas Neue', cursive;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+}
+
+.brand-title {
+    font-size: 15px;
+    line-height: 20px;
+    color: #404040;
+    font-family: "Arial", sans-serif;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-link {
+    font-size: 17px;
+    line-height: 19px;
+    color: #ffffff;
+    font-weight: 300;
+    font-family: 'Quicksand', sans-serif;    text-align: left;
+    text-transform: uppercase;
+}
+
+.nav-link:hover {
+    background-color: #d45e5e;
+    overflow: hidden;
+}
+.lorem {
+    margin-top: 80px;
+    font-size: 23px;
+    line-height: 36px;
+    color: #404040;
+    font-style: italic;
+    font-family: "Cambria";
+    text-align: center;
+
+
+}
+
+.pencil {
+    max-width: 100%;
+    height: auto;
+
+}
+.image {
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+
+}
+.portfolio {
+    font-size: 23px;
+    line-height: 36px;
+    color: #404040;
+    font-style: italic;
+    font-family: "Cambria";
+    text-transform: capitalize;
+
+}
+
+footer {
+    background-color: #d45e5e;
+    height: auto;
+    margin-top: 100px;
+    padding-bottom: 20px;
+
+}
+
+.meter {
+    height: 10px;
+    max-width: 200px;
+    position: relative;
+    background-color: #e27878;
+    z-index: 1;
+    margin: 0 0 22px 0;
+
+
+}
+.fillps {
+    display: block;
+    width: 55%;
+    background-color: black;
+    z-index: 2;
+    height: 10px;
+}
+.fillai {
+    display: block;
+    width: 76%;
+    background-color: black;
+    z-index: 2;
+    height: 10px;
+}
+
+.fillbs {
+    display: block;
+    width: 26%;
+    background-color: black;
+    z-index: 2;
+    height: 10px;
+}
+
+.fillcs {
+    display: block;
+    width: 92%;
+    background-color: black;
+    z-index: 2;
+    height: 10px;
+}
+
+.skill-tag {
+    position: absolute;
+    margin-left: -35px;
+    font-size: 19px;
+    line-height: 20px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "PT Sans";
+}
+
+.my-skills {
+    font-size: 25px;
+    line-height: 36px;
+    color: #ffffff;
+    font-family: "Cambria";
+    text-align: left;
+
+}
+
+.meter-container {
+
+}
+
+.photo-img {
+    width: 160px;
+    height: 160px;
+    border: 5px solid white;
+    margin-top: -40px;
+    margin-bottom: 30px;
+    margin-right: 25px;
+    float: left;
+
+
+}
+
+.skills {
+    padding: 60px 0 0 45px;
+}
+
+.name {
+    display: inline-block;
+    font-size: 25px;
+    color: #ffffff;
+    font-style: italic;
+    font-family: "Cambria";
+    margin: 35px 0 0 0;
+
+}
+
+.location {
+    font-size: 13px;
+    line-height: 36px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "PT Sans";
+    display: inline-block;
+
+
+}
+
+
+.bio {
+
+    font-size: 13px;
+    line-height: 20px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "PT Sans";
+    padding-top: 30px;
+
+
+
+
+}
+
+.icon:before {
+    color: white;
+    font-size: 40px;
+    margin-left: 25px;
+}
+.socials{
+    padding-top: 40px;
+    position: absolute;
+    margin-left: 75%;
+
+}
+
