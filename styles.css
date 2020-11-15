@@ -4,6 +4,7 @@ h3 {
     color: darkgrey;
     font-family: 'Roboto Mono', monospace;
 }
+
 .brand {
     font-size: 37px;
     line-height: 20px;
@@ -37,16 +38,15 @@ h3 {
     background-color: #d45e5e;
     overflow: hidden;
 }
+
 .lorem {
     margin-top: 80px;
     font-size: 23px;
     line-height: 36px;
     color: #404040;
     font-style: italic;
-    font-family: "Cambria";
+    font-family: "Cambria", sans-serif;
     text-align: center;
-
-
 }
 
 .pencil {
@@ -54,20 +54,19 @@ h3 {
     height: auto;
 
 }
+
 .image {
     margin-top: 25px;
     margin-bottom: 25px;
-
-
 }
+
 .portfolio {
     font-size: 23px;
     line-height: 36px;
     color: #404040;
     font-style: italic;
-    font-family: "Cambria";
+    font-family: "Cambria", sans-serif;
     text-transform: capitalize;
-
 }
 
 footer {
@@ -75,7 +74,6 @@ footer {
     height: auto;
     margin-top: 100px;
     padding-bottom: 20px;
-
 }
 
 .meter {
@@ -95,6 +93,7 @@ footer {
     z-index: 2;
     height: 10px;
 }
+
 .fillai {
     display: block;
     width: 76%;
@@ -126,19 +125,15 @@ footer {
     line-height: 20px;
     color: #ffffff;
     font-weight: 400;
-    font-family: "PT Sans";
+    font-family: "PT Sans", sans-serif;
 }
 
 .my-skills {
     font-size: 25px;
     line-height: 36px;
     color: #ffffff;
-    font-family: "Cambria";
+    font-family: "Cambria", sans-serif;
     text-align: left;
-
-}
-
-.meter-container {
 
 }
 
@@ -150,8 +145,6 @@ footer {
     margin-bottom: 30px;
     margin-right: 25px;
     float: left;
-
-
 }
 
 .skills {
@@ -163,9 +156,8 @@ footer {
     font-size: 25px;
     color: #ffffff;
     font-style: italic;
-    font-family: "Cambria";
+    font-family: "Cambria", sans-serif;
     margin: 35px 0 0 0;
-
 }
 
 .location {
@@ -173,10 +165,8 @@ footer {
     line-height: 36px;
     color: #ffffff;
     font-weight: 400;
-    font-family: "PT Sans";
+    font-family: "PT Sans", sans-serif;
     display: inline-block;
-
-
 }
 
 
@@ -186,12 +176,8 @@ footer {
     line-height: 20px;
     color: #ffffff;
     font-weight: 400;
-    font-family: "PT Sans";
+    font-family: "PT Sans", sans-serif;
     padding-top: 30px;
-
-
-
-
 }
 
 .icon:before {
@@ -199,10 +185,10 @@ footer {
     font-size: 40px;
     margin-left: 25px;
 }
+
 .socials{
     padding-top: 40px;
     position: absolute;
     margin-left: 75%;
-
 }
 
