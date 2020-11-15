@@ -1,2 +1,2 @@
 # Webfolio
-Test Website from mockup
+Test Webpage from mockup
